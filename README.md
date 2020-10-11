@@ -1,11 +1,11 @@
-# Project Name: Ecommerce Shop 
+# Project Name: Elaravel 
 
 ## How To Setup On Windows
-Downloa Project From This url : git clone https://github.com/apurbo57/E-commerce-project-with-laravel.git
-Go To Project Directory Ecommerce elaravel Projects
-Install Requirements local Server Xammp or wammp
-Connect Database elaravel.sql
-Finally Run The Project localhost/elaravel
+1. Downloa Project From This url : `git clone https://github.com/apurbo57/E-commerce-project-with-laravel.git`
+2. Go To Project Directory Ecommerce `elaravel` Projects
+3. Install Requirements local Server `Xammp or wammp`
+4. Connect Database `elaravel.sql`
+5. Finally Run The Project `localhost/elaravel`
 
 ## Admin Page
 ![screencapture-localhost-elaravel-manage-order-2020-10-11-10_56_45](https://user-images.githubusercontent.com/67797830/95685666-1b80ac80-0c1b-11eb-8e1f-296a9bcc7e56.png)
